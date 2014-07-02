@@ -1,4 +1,4 @@
-eventator
+hieventator
 =========
 
 events managing with easiest ticketing systems
