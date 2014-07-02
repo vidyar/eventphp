@@ -1,5 +1,5 @@
-eventator
-=========
+eventator proj
+===============
 
 events managing with easiest ticketing systems
 
