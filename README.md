@@ -1,5 +1,7 @@
-hieventator
-=========
+
+eventator php
+================
+
 
 events managing with easiest ticketing systems
 
