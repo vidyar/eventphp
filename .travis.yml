@@ -28,6 +28,7 @@ before_script:
     # - sleep 5
 
 
+
 script:
     - bin/phpspec run -fpretty --verbose
     - bin/behat --no-snippets --verbose -fpretty
